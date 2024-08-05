@@ -1,0 +1,6 @@
+dist
+*.json
+src/components/workspace-content/models/contexts
+src/components/transfer/client/build
+src/components/platform-subscription
+database_migrations/
